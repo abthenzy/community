@@ -6,7 +6,8 @@
 [Es社区](https://elasticsearch.cn/)
 [Github oath](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 [Bootstrap 文档](https://v3.bootcss.com/getting-started/)
-
+[mybatis 文档](https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
+[spring-boot 2.0.0文档](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)
 
 
 ##工具
